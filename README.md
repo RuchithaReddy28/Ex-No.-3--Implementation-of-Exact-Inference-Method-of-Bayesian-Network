@@ -41,7 +41,7 @@ result=inference.query(variables=[query_variable],evidence=evidence)
 print(result)
 ```
 ## Output :
-![output](https://github.com/RuchithaReddy28/Ex-No.-3--Implementation-of-Exact-Inference-Method-of-Bayesian-Network/blob/main/y1.png?raw=true)
+![output](https://github.com/21003698/Ex-No.-3--Implementation-of-Exact-Inference-Method-of-Bayesian-Network/blob/main/y1.png?raw=true)
 ## Result :  
 Hence the implementation of Exact Inference Method of Bayesian Network Is implemented Successfully.
 
