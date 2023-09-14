@@ -18,8 +18,8 @@ Step 7: Print the results.<br>
 
 ## Program :
 ```
-Developed By: Akkireddy Ruchitha Reddy
-REgister Number: 212221230004
+Developed By: Sandeep Challa
+REgister Number: 212221240011
 ```
 ```
 from pgmpy.models import BayesianNetwork
